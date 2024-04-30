@@ -1,0 +1,240 @@
+/* 
+  Localizable.strings
+  XMSDK
+
+  Created by dosear on 2021/4/19.
+  Copyright © 2021 YXQ. All rights reserved.
+*/
+
+"Init Repeat" = "Initialization failed, please restart the game to complete the initialization";
+
+"UnLogin" = "Not logged in, please complete the login operation";
+
+"Purchase not open" = "In-app purchases have not been activated";
+
+"Pay after 5s" = "Pay again after 5 seconds";
+
+"No product list" = "Did not get the product list";
+
+"Not have the product" = "The information of this product cannot be found in Apple product list";
+
+"Purchase request failed" = "In-app purchase request failed";
+
+"Purchase cancle or failed" = "In-app purchase request failed or got canceled";
+
+"Receipt acquisition failed" = "Failed to obtain transaction voucher, unable to verify the order";
+
+"Receipt data get failed" = "Failed to obtain transaction data, unable to verify the order";
+
+"Receipt repeat" = "Repeated Apple transaction information";
+
+"Order info lost" = "Order information is missing, payment failed";
+
+"Purchase successful" = "Purchase successful";
+
+"Order verification failed" = "Order verification failed";
+
+"Order verification failed detail" = "Order verification failed,\nRestart the game, and then the order will be automatically verified,\nIf it has not been successful, please contact customer service. \n";
+
+"Copy failed" = "Copy failed";
+
+"Copy successful" = "Copy successful";
+
+"Pay successful" = "Payment successful";
+
+"Unknown device" = "Unknown device";
+
+"Done" = "Confirm";
+
+"Show of flip" = "Flip to show floating frame after hiding";
+
+"Cancel" = "Cancel";
+
+"Hidden" = "Hidden";
+
+"Drop to Hide" = "Drag it here to hide";
+
+"Net error,timeout" = "The network is abnormal and the request timed out";
+
+"Data parsing error" = "Data parsing error";
+
+"User Name" = "User Name";
+
+"Password" = "Password";
+
+"Code" = "Code";
+
+"Name" = "Name";
+
+"ID card" = "ID card Number";
+
+"Enter user name" = "Enter user name";
+
+"Enter account" = "Enter your account";
+
+"Enter password" = "Enter the password";
+
+"Enter code" = "Enter verification code";
+
+"Enter name" = "Enter your real name";
+
+"Enter ID card" = "Enter ID card number";
+
+"Area code" = "Area code";
+
+"Get Code" = "Obtain code";
+
+"Enter" = "Please enter";
+
+"Cannot contain spaces" = "Cannot contain spaces";
+
+"Cannot be less than 6 digits" = "Password cannot be less than 6 digits";
+
+"Cannot be greater than 16 bits" = "Password cannot be greater than 6 digits";
+
+"Cannot contain spaces" = "Password annot contain spaces";
+
+"Login successful" = "Login successful";
+
+"Message" = "Message";
+
+"Change pwd failed" = "Failed to change password";
+
+"Quick Start Game" = "Quick Start Game";
+
+"Account login" = "Account login";
+
+"No Apple Login" = "The current device system does not support Apple login!";
+
+"Not in conformity" = "The authorization information does not match";
+
+"User cancle request" = "The user canceled the authorization request";
+
+"Authorization request failed" = "Authorization request failed";
+
+"Invalid authorization request response" = "Invalid response to authorization request";
+
+"Failed to process authorization request" = "Failed to process authorization request";
+
+"Authorization request failed for unknown reason" = "Authorization request failed for unknown reason";
+
+"Sign in" = "Login";
+
+"New user" = "New User Registration";
+
+"Forget pwd" = "Forgot password";
+
+"Customer service" = "Contact CS";
+
+"Reser pwd" = "Reset Password";
+
+"Assign account number" = "The system has automatically assigned an account. In order to facilitate memory, you can set it on your own";
+
+"Sign up" = "Register";
+
+"Privacy" = "Privacy Policy";
+
+"Agreement" = "User Agreement";
+
+"Agreed Privacy And Agreement" = "By registration, you have agreed to the privacy policy and user agreement";
+
+"Read Privacy And Agreement" = "Please read and agree to the privacy policy and user agreement";
+
+"Regiest successful" = "Registration successful";
+
+"Send Code successful" = "Verification code sent successfully";
+
+"Change done" = "Confirm the changes";
+
+"Get and loging" = "Successfully got it back, logging in now";
+
+"Today not tips" = "Don't remind me again today";
+
+"Bind now" = "Bind now";
+
+"Next time" = "Next time";
+
+"Reminder" = "Friendly reminder! \n1. The email is only used for identity verification, no fees are charged, please feel free to use it!\n2.The company promises to protect your privacy and will not leak your email!";
+
+"Bind successful" = "Bind successful";
+
+"Cancel account" = "Are you sure to cancel this account?";
+
+"Upgrade now" = "Upgrade now";
+
+"Close" = "Close";
+
+"National regulations" = "1. According to regulations, game users need to conduct real-name authentication!\n2、2. We promise to strictly protect your personal information and no external disclosure of it!";
+
+"Regiest fast" = "Fast registration";
+
+"Enter Email" = "Enter Email";
+
+"Service" = "service";
+
+"Apple" = "Apple";
+
+"Facebook" = "FB";
+
+"Email" = "Email";
+
+"Visitor" = "Visitor";
+
+"Email cannot be empty" = "Email cannot be empty";
+
+"Code cannot be empty" = "Verification code cannot be empty";
+
+"Please enter email address" = "Enter email address";
+
+"Confirm" = "Confirm";
+
+"No bind Email content" = "The current account is not bound to any email! \nFor your account security, please bind your email immediately";
+
+"No account number" = "No account";
+
+"Login Method" = "---------------Log in with---------------";
+
+"Linked" = "Linked";
+
+"E-mail" = "E-mail";
+
+"Link your account to safeguard your progress and play with multiple devices." = "Link your account to safeguard your progress and play with multiple devices.";
+
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "Please enter the account email address to receive the verification code, and check the email folder including the trash box.";
+
+"账号登录" = "海外-账号登录";
+"重置密码" = "海外-重置密码";
+"忘记密码" = "海外-忘记密码";
+"实名认证" = "海外-实名认证";
+
+"温馨提示" = "海外-温馨提示";
+"版本更新" = "海外-版本更新";
+"绑定邮箱" = "海外-绑定邮箱";
+
+"客服中心" = "海外-客服中心";
+"账号绑定" = "海外-账号绑定";
+
+
+"Sign in with Apple" = "Sign in with Apple";
+
+"Guest" = "Guest";
+
+"The authorization information is inconsistent" = "The authorization information is inconsistent";
+
+"The system version does not support Apple login" = "The system version does not support Apple login";
+
+"Canceled" = "The user canceled the authorization request";
+
+"Failed" = "Authorization request failed";
+
+"Invalid Response" = "Invalid response to authorization request";
+
+"Not Handled" = "Failed to process authorization request";
+
+"Unknown" = "Authorization request failed for unknown reason";
+
+"Contact us" = "Contact us";
+
+"If you have any questions or questions, please contact us through the following link or email" = "If you have any problems or questions, please feel free to contact us by Facebook, Messenger, Customer Service or Email.";
+
+"There are no advertising resources to play" = "There are no advertising resources to play";

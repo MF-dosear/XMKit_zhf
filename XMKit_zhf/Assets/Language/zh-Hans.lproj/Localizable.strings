@@ -1,0 +1,156 @@
+/* 
+  Localizable.strings
+  XMSDK
+
+  Created by dosear on 2021/4/19.
+  Copyright © 2021 YXQ. All rights reserved.
+*/
+
+"Init Repeat" = "初始化失败，请重启游戏，完成初始化操作";
+"UnLogin" = "未登录，请完成登录操作";
+"Purchase not open" = "应用内购买尚未开启";
+"Pay after 5s" = "5秒后重新支付";
+
+"No product list" = "没有获取到商品列表";
+"Not have the product" = "苹果商品列表没有该商品信息";
+"Purchase request failed" = "应用内购买请求失败";
+"Purchase cancle or failed" = "应用内购买被取消或失败";
+"Receipt acquisition failed" = "交易凭证获取失败，无法校验订单";
+
+"Receipt data get failed" = "交易数据获取失败，无法校验订单";
+"Receipt repeat" = "苹果交易信息重复";
+"Order info lost" = "订单信息丢失，支付失败";
+"Purchase successful" = "购买成功";
+"Order verification failed" = "订单校验失败";
+
+"Order verification failed detail" = "订单校验失败，\n重启游戏，后台自动校验订单，\n如果一直未成功，请联系客服。\n";
+"Copy failed" = "复制失败";
+"Copy successful" = "复制成功";
+"Pay successful" = "支付成功";
+"Unknown device" = "未知设备";
+
+"Done" = "确定";
+"Show of flip" = "隐藏后翻一翻可显示悬浮框";
+"Cancel" = "取消";
+"Hidden" = "隐藏";
+"Drop to Hide" = "拖到此处隐藏";
+
+"Net error,timeout" = "网络异常，请求超时";
+"Data parsing error" = "数据解析错误";
+"User Name" = "用户名";
+
+"Password" = "密码";
+"Code" = "验证码";
+"Name" = "姓名";
+"ID card" = "身份证号";
+"Enter user name" = "请输入用户名";
+
+"Enter account" = "请输入账号";
+"Enter password" = "请输入密码";
+"Enter code" = "请输入验证码";
+"Enter name" = "请输入真实姓名";
+
+"Enter ID card" = "请输入身份证号码";
+"Area code" = "区号";
+"Get Code" = "获取验证码";
+"Enter" = "请输入";
+"Cannot contain spaces" = "不能包含空格";
+
+"Cannot be less than 6 digits" = "密码不能少于6位";
+"Cannot be greater than 16 bits" = "密码不能大于16位";
+"Cannot contain spaces" = "密码中不能包含空格";
+"Login successful" = "登录成功";
+"Message" = "信息";
+
+"Change pwd failed" = "修改密码失败";
+"Quick Start Game" = "快速开始游戏";
+"Account login" = "账户登录";
+"No Apple Login" = "当前设备系统不支持苹果登录!";
+"Not in conformity" = "授权信息均不符";
+
+"User cancle request" = "用户取消了授权请求";
+"Authorization request failed" = "授权请求失败";
+"Invalid authorization request response" = "授权请求响应无效";
+"Failed to process authorization request" = "未能处理授权请求";
+"Authorization request failed for unknown reason" = "授权请求失败未知原因";
+
+"Sign in" = "登录";
+"New user" = "新用户注册";
+"Forget pwd" = "忘记密码";
+"Customer service" = "联系客服";
+"Reser pwd" = "重置密码";
+"Assign account number" = "系统已自动分配账号，为了方便记忆，您可自行设置";
+
+"Sign up" = "注册";
+"Privacy" = "隐私政策";
+"Agreement" = "用户协议";
+"Agreed Privacy And Agreement" = "注册代表已同意隐私政策和用户协议";
+
+"Read Privacy And Agreement" = "请阅读并同意隐私政策和用户协议";
+"Regiest successful" = "注册成功";
+"Send Code successful" = "发送验证码成功";
+"Change done" = "确认修改";
+
+"Get and loging" = "找回成功，正在登录";
+"Today not tips" = "今日不再提示";
+"Bind now" = "立即绑定";
+"Next time" = "下次再说";
+
+"Reminder" = "温馨提示！\n1、邮箱仅作为身份验证，不收取任何费用，请放心使用！\n2、本公司承诺保障您的隐私，不会泄露您的邮箱！";
+"Bind successful" = "绑定成功";
+"Cancel account?" = "确定注销该账号吗？";
+"Upgrade now" = "立即升级";
+"Close" = "关闭";
+
+"National regulations" = "1、根据国家规定，游戏用户需进行实名认证!\n2、我们承诺将严格保护您的个人信息，不会对外泄漏!";
+"Regiest fast" = "快速注册";
+"Enter Email" = "请输入邮箱";
+"Service" = "客服";
+
+"Apple" = "Apple";
+"Facebook" = "FB";
+"Email" = "邮箱";
+"Visitor" = "游客";
+"Email cannot be empty" = "邮箱不能为空";
+"Code cannot be empty" = "验证码不能为空";
+
+"Please enter email address" = "请输入邮箱地址";
+"Confirm" = "确定";
+"No bind Email content" = "当前账号未绑定邮箱!\n为了您的账号安全，请立即绑定邮箱";
+"No account number" = "暂无账号";
+"Login Method" = "--------------- 登录方式 ---------------";
+
+"Linked" = "已绑定";
+"E-mail" = "邮箱";
+"Link your account to safeguard your progress and play with multiple devices." = "绑定账号以保证您的游戏进度，并使用多设备进行游戏。";
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "请输入账号邮箱用于接收验证码，检查邮件资料夹包括垃圾桶";
+
+"账号登录" = "账号登录";
+"重置密码" = "重置密码";
+
+"忘记密码" = "忘记密码";
+"实名认证" = "实名认证";
+"账号绑定" = "账号绑定";
+
+"温馨提示" = "温馨提示";
+"版本更新" = "版本更新";
+"绑定邮箱" = "绑定邮箱";
+
+"客服中心" = "客服中心";
+
+"Sign in with Apple" = "通过Apple登录";
+"Guest" = "游客";
+"The authorization information is inconsistent" = "授权信息均不符";
+"The system version does not support Apple login" = "该系统版本暂不支持苹果登录";
+
+"Canceled" = "用户取消了授权请求";
+"Failed" = "授权请求失败";
+"Invalid Response" = "授权请求响应无效";
+"Not Handled" = "未能处理授权请求";
+"Unknown" = "授权请求失败未知原因";
+
+"Contact us" = "联系我们";
+
+"If you have any questions or questions, please contact us through the following link or email" = "如果您有任何问题或者疑问，欢迎通过下方的Facebook、Messenger、客服、邮箱与我们联系。";
+
+"There are no advertising resources to play" = "没有广告资源可以播放";

@@ -1,0 +1,28 @@
+//
+//  YXHeader.pch
+//  XMSDK
+//
+//  Created by G.E.M on 2023/8/6.
+//  Copyright © 2023 G.E.M. All rights reserved.
+//
+
+#ifndef YXHeader_pch
+#define YXHeader_pch
+
+/// Debug模式 0：上线模式 1：开启debug模式
+#define YXDebug 0
+
+#import "ZPSDK.h"
+#import "ZPDebug.h"
+#import "ZPConst.h"
+#import "ZPUI.h"
+#import "ZPDefine.h"
+#import "ZPColor.h"
+
+#import "YXStatis.h"
+
+/// 当前视图
+#import "XMCommon.h"
+#define SELFVC   [XMCommon currentVC]
+
+#endif /* YXHeader_pch */

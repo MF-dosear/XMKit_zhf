@@ -1,0 +1,145 @@
+
+// 阿拉伯语
+"Init Repeat" = "فشلت البدء، يرجى إعادة تشغيل اللعبة لإكمال عملية التهيئة.";
+"UnLogin" = "غير مسجل الدخول، يرجى إكمال عملية تسجيل الدخول.";
+"Purchase not open" = "لا تزال عمليات الشراء داخل التطبيق غير مفعلة.";
+"Pay after 5s" = "إعادة تشغيل الدفع في خلال 5 ثوانٍ.";
+
+"No product list" = "فشل في الحصول على قائمة العناصر.";
+"Not have the product" = "لا توجد معلومات لهذا العنصر في قائمة منتجات Apple.";
+"Purchase request failed" = "فشل طلب الشراء داخل التطبيق.";
+"Purchase cancle or failed" = "تم إلغاء الشراء داخل التطبيق أو فشل.";
+"Receipt acquisition failed" = "فشل في الحصول على بيانات العملية، غير قادر على التحقق من الطلب.";
+
+"Receipt data get failed" = "فشل في استرداد بيانات العملية، غير قادر على التحقق من الطلب.";
+"Receipt repeat" = "تكرار معلومات العملية في Apple.";
+"Order info lost" = "فقدان معلومات الطلب، فشل الدفع.";
+"Purchase successful" = "تم الشراء بنجاح";
+"Order verification failed" = "فشل التحقق من الطلب";
+
+"Order verification failed detail" = "فشل التحقق من الطلب. أعد تشغيل اللعبة، وسيقوم النظام تلقائيًا بالتحقق من الطلب في الخلفية. إذا استمر الفشل، يرجى التواصل مع خدمة العملاء.";
+"Copy failed" = "فشل النسخ";
+"Copy successful" = "تم النسخ بنجاح";
+"Pay successful" = "نجاح الدفع";
+"Unknown device" = "جهاز غير معروف";
+
+"Done" = "تأكيد";
+"Show of flip" = "انقلب لكشف النافذة العائمة بعد الإخفاء.";
+"Cancel" = "إلغاء";
+"Hidden" = "إخفاء";
+"Drop to Hide" = "اسحب هنا للإخفاء";
+
+"Net error,timeout" = "استثناء في الشبكة، طلب تجاوز الوقت.";
+"Data parsing error" = "خطأ في تحليل البيانات";
+"User Name" = "اسم المستخدم";
+
+"Password" = "كلمة المرور";
+"Code" = "رمز التحقق";
+"Name" = "الاسم";
+"ID card" = "رقم البطاقة الشخصية";
+"Enter user name" = "يرجى إدخال اسم المستخدم";
+
+"Enter account" = "يرجى إدخال رقم حسابك";
+"Enter password" = "يرجى إدخال كلمة المرور";
+"Enter code" = "يرجى إدخال رمز التحقق";
+"Enter name" = "يرجى إدخال اسمك الحقيقي";
+
+"Enter ID card" = "يرجى إدخال رقم بطاقتك الشخصية";
+"Area code" = "رمز المنطقة";
+"Get Code" = "الحصول على رمز التحقق";
+"Enter" = "الرجاء إدخال";
+"Cannot contain spaces" = "لا يمكن أن يحتوي على مسافات";
+
+"Cannot be less than 6 digits" = "يجب أن تكون كلمة المرور على الأقل 6 أحرف";
+"Cannot be greater than 16 bits" = "لا يمكن أن تتجاوز كلمة المرور 16 حرفًا";
+"Cannot contain spaces" = "لا يمكن أن تحتوي كلمة المرور على مسافات";
+"Login successful" = "تسجيل الدخول بنجاح";
+"Message" = "معلومات";
+
+"Change pwd failed" = "فشل تغيير كلمة المرور";
+"Quick Start Game" = "بداية سريعة في اللعبة";
+"Account login" = "تسجيل الدخول";
+"No Apple Login" = "نظام الجهاز الحالي لا يدعم تسجيل الدخول بواسطة Apple!";
+"Not in conformity" = "معلومات الترخيص لا تتطابق";
+
+"User cancle request" = "ألغى المستخدم طلب الترخيص";
+"Authorization request failed" = "فشل طلب الترخيص";
+"Invalid authorization request response" = "استجابة غير صالحة لطلب الترخيص";
+"Failed to process authorization request" = "غير قادر على معالجة طلب الترخيص";
+"Authorization request failed for unknown reason" = "فشل طلب الترخيص لأسباب غير معروفة";
+
+"Sign in" = "تسجيل الدخول";
+"New user" = "تسجيل مستخدم جديد";
+"Forget pwd" = "نسيت كلمة المرور";
+"Customer service" = "اتصل بخدمة العملاء";
+"Reser pwd" = "إعادة تعيين كلمة المرور";
+"Assign account number" = "قام النظام تلقائيًا بتعيين حساب. للراحة، يمكنك تعيينه بنفسك.";
+
+"Sign up" = "تسجيل";
+"Privacy" = "سياسة الخصوصية";
+"Agreement" = "اتفاقية المستخدم";
+"Agreed Privacy And Agreement" = "التسجيل يعني الموافقة على سياسة الخصوصية واتفاقية المستخدم.";
+
+"Read Privacy And Agreement" = "الرجاء قراءة والموافقة على سياسة الخصوصية واتفاقية المستخدم.";
+"Regiest successful" = "تسجيل ناجح";
+"Send Code successful" = "تم إرسال رمز التحقق بنجاح";
+"Change done" = "تأكيد التعديل";
+
+"Get and loging" = "استرداد ناجح، تسجيل الدخول";
+"Today not tips" = "عدم إظهار ذلك مرة أخرى اليوم";
+"Bind now" = "قم بالربط الآن";
+"Next time" = "ذكرني لاحقًا";
+
+"Reminder" = "تذكير! 1. البريد الإلكتروني يُستخدم فقط للتحقق من الهوية وهو مجاني. يرجى استخدامه بثقة! 2. تعهد شركتنا بحماية خصوصيتك وعدم الكشف عن بريدك الإلكتروني!";
+"Bind successful" = "ربط بنجاح";
+"Cancel account?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"Upgrade now" = "ترقية الآن";
+"Close" = "إغلاق";
+
+"National regulations" = "1. وفقًا للتشريعات الوطنية، يجب على مستخدمي اللعبة إجراء مصادقة الاسم الحقيقي! 2. نعد بحماية صارمة لمعلوماتك الشخصية وعدم الكشف عنها للآخرين!";
+"Regiest fast" = "التسجيل السريع";
+"Enter Email" = "الرجاء إدخال بريدك الإلكتروني";
+"Service" = "خدمة العملاء";
+
+"Apple" = "Apple";
+"Facebook" = "FB";
+"Email" = "البريد الإلكتروني";
+"Visitor" = "زائر";
+"Email cannot be empty" = "لا يمكن ترك البريد الإلكتروني فارغًا";
+"Code cannot be empty" = "لا يمكن ترك رمز التحقق فارغًا";
+
+"Please enter email address" = "الرجاء إدخال عنوان بريدك الإلكتروني";
+"Confirm" = "تأكيد";
+"No bind Email content" = "الحساب الحالي غير مرتبط ببريد إلكتروني! \n لضمان أمان حسابك، يرجى ربط بريدك الإلكتروني فورًا.";
+"No account number" = "لا يوجد حساب مؤقتًا";
+"Login Method" = "طريقة تسجيل الدخول";
+
+"Linked" = "مرتبط";
+"E-mail" = "بريد إلكتروني";
+"Link your account to safeguard your progress and play with multiple devices." = "قم بربط حسابك لضمان تقدم اللعبة واللعب على أجهزة متعددة.";
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "الرجاء إدخال عنوان البريد الإلكتروني للحصول على رمز التحقق. تحقق من مجلد البريد الإلكتروني، بما في ذلك مجلد البريد العشوائي.";
+
+"账号登录" = "تسجيل الدخول إلى الحساب";
+"重置密码" = "إعادة تعيين كلمة المرور";
+"忘记密码" = "نسيت كلمة المرور";
+"实名认证" = "المصادقة بالاسم الحقيقي";
+"账号绑定" = "ربط الحساب";
+"温馨提示" = "نصائح دافئة";
+"版本更新" = "تحديث الإصدار";
+"绑定邮箱" = "ربط البريد الإلكتروني";
+"客服中心" = "مركز خدمة العملاء";
+
+"Sign in with Apple" = "تسجيل الدخول عبر Apple";
+"Guest" = "زائر";
+"The authorization information is inconsistent" = "معلومات المصادقة غير متطابقة";
+"The system version does not support Apple login" = "النظام الحالي لا يدعم حاليًا تسجيل الدخول عبر Apple";
+
+"Canceled" = "ألغى المستخدم طلب المصادقة";
+"Failed" = "فشل طلب المصادقة";
+"Invalid Response" = "استجابة غير صالحة لطلب المصادقة";
+"Not Handled" = "غير قادر على معالجة طلب المصادقة";
+"Unknown" = "فشل طلب المصادقة لأسباب غير معروفة";
+
+"Contact us" = "اتصل بنا";
+"If you have any questions or questions, please contact us through the following link or email" = "إذا كانت لديك أية أسئلة، يرجى الاتصال بنا من خلال الرابط أو البريد الإلكتروني أدناه";
+"There are no advertising resources to play" = "لا توجد موارد إعلانية متاحة للتشغيل";

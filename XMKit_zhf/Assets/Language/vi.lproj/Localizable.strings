@@ -1,0 +1,145 @@
+
+// 越南语
+"Init Repeat" = "Khởi tạo thất bại, vui lòng khởi động lại trò chơi để hoàn tất quá trình khởi tạo";
+"UnLogin" = "Chưa đăng nhập, vui lòng hoàn tất quá trình đăng nhập";
+"Purchase not open" = "Mua sắm trong ứng dụng chưa được mở";
+"Pay after 5s" = "Thanh toán lại sau 5 giây";
+
+"No product list" = "Không lấy được danh sách sản phẩm";
+"Not have the product" = "Danh sách sản phẩm của Apple không có thông tin về sản phẩm này";
+"Purchase request failed" = "Yêu cầu mua sắm trong ứng dụng thất bại";
+"Purchase cancle or failed" = "Thanh toán trong ứng dụng bị hủy bỏ hoặc thất bại";
+"Receipt acquisition failed" = "Không thể lấy được giấy chứng nhận giao dịch, không thể xác minh đơn hàng";
+
+"Receipt data get failed" = "Không thể lấy được dữ liệu giao dịch, không thể xác minh đơn hàng";
+"Receipt repeat" = "Thông tin giao dịch của Apple bị trùng lặp";
+"Order info lost" = "Thất bại thanh toán, thông tin đơn hàng bị mất";
+"Purchase successful" = "Mua hàng thành công";
+"Order verification failed" = "Xác minh đơn hàng thất bại";
+
+"Order verification failed detail" = "Xác minh đơn hàng thất bại, \nkhởi động lại trò chơi, xác minh đơn hàng tự động phía sau, \nnếu vẫn không thành công, vui lòng liên hệ dịch vụ khách hàng.\n";
+"Copy failed" = "Sao chép thất bại";
+"Copy successful" = "Sao chép thành công";
+"Pay successful" = "Thanh toán thành công";
+"Unknown device" = "Thiết bị không xác định";
+
+"Done" = "Xác nhận";
+"Show of flip" = "Cuộn lên sau đó cuộn lại để hiển thị ô lật";
+"Cancel" = "Hủy bỏ";
+"Hidden" = "Ẩn";
+"Drop to Hide" = "Kéo vào đây để ẩn";
+
+"Net error,timeout" = "Lỗi mạng, yêu cầu quá thời gian";
+"Data parsing error" = "Lỗi phân tích dữ liệu";
+"User Name" = "Tên người dùng";
+
+"Password" = "Mật khẩu";
+"Code" = "Mã xác nhận";
+"Name" = "Họ tên";
+"ID card" = "Số căn cước/Chứng minh nhân dân";
+"Enter user name" = "Nhập tên người dùng";
+
+"Enter account" = "Nhập tài khoản";
+"Enter password" = "Nhập mật khẩu";
+"Enter code" = "Nhập mã xác nhận";
+"Enter name" = "Nhập tên thật";
+
+"Enter ID card" = "Nhập số chứng minh nhân dân";
+"Area code" = "Mã vùng";
+"Get Code" = "Nhận mã xác nhận";
+"Enter" = "Vui lòng nhập";
+"Cannot contain spaces" = "Không được chứa khoảng trắng";
+
+"Cannot be less than 6 digits" = "Mật khẩu không thể ít hơn 6 ký tự";
+"Cannot be greater than 16 bits" = "Mật khẩu không thể lớn hơn 16 ký tự";
+"Cannot contain spaces" = "Mật khẩu không được chứa khoảng trắng";
+"Login successful" = "Đăng nhập thành công";
+"Message" = "Thông tin";
+
+"Change pwd failed" = "Thay đổi mật khẩu thất bại";
+"Quick Start Game" = "Bắt đầu chơi nhanh";
+"Account login" = "Đăng nhập tài khoản";
+"No Apple Login" = "Hệ điều hành của thiết bị hiện tại không hỗ trợ đăng nhập Apple!";
+"Not in conformity" = "Tất cả các thông tin ủy quyền đều không phù hợp";
+
+"User cancle request" = "Người dùng đã hủy yêu cầu ủy quyền";
+"Authorization request failed" = "Yêu cầu ủy quyền thất bại";
+"Invalid authorization request response" = "Phản hồi không hợp lệ từ yêu cầu ủy quyền";
+"Failed to process authorization request" = "Không thể xử lý yêu cầu ủy quyền";
+"Authorization request failed for unknown reason" = "Yêu cầu ủy quyền thất bại vì lý do không xác định";
+
+"Sign in" = "Đăng nhập";
+"New user" = "Người dùng mới đăng ký";
+"Forget pwd" = "Quên mật khẩu";
+"Customer service" = "Liên hệ dịch vụ khách hàng";
+"Reser pwd" = "Đặt lại mật khẩu";
+"Assign account number" = "Hệ thống đã tự động cấp phát tài khoản, để dễ nhớ, bạn có thể tự đặt";
+
+"Sign up" = "Đăng ký";
+"Privacy" = "Chính sách Riêng tư";
+"Agreement" = "Thỏa thuận Người dùng";
+"Agreed Privacy And Agreement" = "Đăng ký đồng nghĩa với việc bạn đã đồng ý với Chính sách Riêng tư và Thỏa thuận Người dùng";
+
+"Read Privacy And Agreement" = "Vui lòng đọc và đồng ý với Chính sách Riêng tư và Thỏa thuận Người dùng";
+"Regiest successful" = "Đăng ký thành công";
+"Send Code successful" = "Gửi mã xác nhận thành công";
+"Change done" = "Xác nhận sửa đổi";
+
+"Get and loging" = "Tìm lại thành công, đang đăng nhập";
+"Today not tips" = "Không nhắc nhở hôm nay nữa";
+"Bind now" = "Liên kết ngay";
+"Next time" = "Lần sau";
+
+"Reminder" = "Lưu ý: \n1. Email chỉ dùng cho xác minh danh tính, miễn phí hoàn toàn!\n2. Chúng tôi cam kết bảo vệ quyền riêng tư của bạn, không tiết lộ email của bạn!";
+"Bind successful" = "Liên kết thành công";
+"Cancel account?" = "Bạn có chắc chắn muốn đăng xuất tài khoản này không?";
+"Upgrade now" = "Nâng cấp ngay";
+"Close" = "Đóng";
+
+"National regulations" = "1. Theo quy định của quốc gia, người chơi cần thực hiện xác minh danh tính!\n2. Chúng tôi cam kết bảo vệ nghiêm túc thông tin cá nhân của bạn, không tiết lộ ra ngoài!";
+"Regiest fast" = "Đăng ký nhanh";
+"Enter Email" = "Vui lòng nhập email";
+"Service" = "Dịch vụ khách hàng";
+
+"Apple" = "Apple";
+"Facebook" = "FB";
+"Email" = "Email";
+"Visitor" = "Khách";
+"Email cannot be empty" = "Email không được để trống";
+"Code cannot be empty" = "Mã xác nhận không được để trống";
+
+"Please enter email address" = "Vui lòng nhập địa chỉ email";
+"Confirm" = "Xác nhận";
+"No bind Email content" = "Tài khoản hiện tại chưa được liên kết với email!\nĐể bảo đảm an toàn tài khoản của bạn, vui lòng liên kết ngay.";
+"No account number" = "Tạm thời không có tài khoản";
+"Login Method" = "Phương thức đăng nhập";
+
+"Linked" = "Đã liên kết";
+"E-mail" = "Email";
+"Link your account to safeguard your progress and play with multiple devices." = "Liên kết tài khoản để bảo vệ tiến trình chơi game của bạn và sử dụng trên nhiều thiết bị.";
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "Vui lòng nhập email để nhận mã xác nhận, kiểm tra thư mục email bao gồm thùng rác.";
+
+"账号登录" = "Đăng nhập tài khoản";
+"重置密码" = "Đặt lại mật khẩu";
+"忘记密码" = "Quên mật khẩu";
+"实名认证" = "Xác minh danh tính";
+"账号绑定" = "Liên kết tài khoản";
+"温馨提示" = "Lưu ý";
+"版本更新" = "Cập nhật phiên bản";
+"绑定邮箱" = "Liên kết email";
+"客服中心" = "Trung tâm dịch vụ khách hàng";
+
+"Sign in with Apple" = "Đăng nhập thông qua Apple";
+"Guest" = "Khách";
+"The authorization information is inconsistent" = "Tất cả thông tin ủy quyền không phù hợp";
+"The system version does not support Apple login" = "Phiên bản hệ điều hành hiện tại tạm thời không hỗ trợ đăng nhập Apple";
+
+"Canceled" = "Người dùng đã hủy yêu cầu ủy quyền";
+"Failed" = "Yêu cầu ủy quyền thất bại";
+"Invalid Response" = "Phản hồi ủy quyền không hợp lệ";
+"Not Handled" = "Không thể xử lý yêu cầu ủy quyền";
+"Unknown" = "Yêu cầu ủy quyền thất bại vì lý do không xác định";
+
+"Contact us" = "Liên hệ chúng tôi";
+"If you have any questions or questions, please contact us through the following link or email" = "Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào, hãy liên hệ với chúng tôi qua liên kết hoặc email dưới đây";
+"There are no advertising resources to play" = "Không có tài nguyên quảng cáo có thể phát";

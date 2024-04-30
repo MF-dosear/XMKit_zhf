@@ -1,0 +1,145 @@
+
+// 德语
+"Init Repeat" = "Initialisierung fehlgeschlagen. Bitte starten Sie das Spiel neu, um die Initialisierung abzuschließen.";
+"UnLogin" = "Nicht angemeldet. Bitte führen Sie den Anmeldevorgang durch.";
+"Purchase not open" = "In-App-Käufe sind noch nicht aktiviert.";
+"Pay after 5s" = "In 5 Sekunden erneut bezahlen.";
+
+"No product list" = "Keine Produktliste erhalten.";
+"Not have the product" = "Das Apple-Produktverzeichnis enthält keine Informationen zu diesem Produkt.";
+"Purchase request failed" = "In-App-Kaufanfrage fehlgeschlagen.";
+"Purchase cancle or failed" = "In-App-Kauf wurde abgebrochen oder ist fehlgeschlagen.";
+"Receipt acquisition failed" = "Transaktionsnachweis konnte nicht abgerufen werden, Bestellung kann nicht überprüft werden.";
+
+"Receipt data get failed" = "Transaktionsdaten konnten nicht abgerufen werden, Bestellung kann nicht überprüft werden.";
+"Receipt repeat" = "Apple-Transaktionsinformationen sind doppelt vorhanden.";
+"Order info lost" = "Bestellinformationen fehlen, Zahlung fehlgeschlagen.";
+"Purchase successful" = "Kauf erfolgreich.";
+"Order verification failed" = "Bestellüberprüfung fehlgeschlagen.";
+
+"Order verification failed detail" = "Bestellüberprüfung fehlgeschlagen. Starten Sie das Spiel neu, die Bestellung wird automatisch im Hintergrund überprüft. Wenn dies weiterhin nicht erfolgreich ist, kontaktieren Sie bitte den Kundenservice.";
+"Copy failed" = "Kopieren fehlgeschlagen";
+"Copy successful" = "Kopieren erfolgreich";
+"Pay successful" = "Zahlung erfolgreich";
+"Unknown device" = "Unbekanntes Gerät";
+
+"Done" = "Bestätigen";
+"Show of flip" = "Kippen Sie, um das Overlay anzuzeigen.";
+"Cancel" = "Abbrechen";
+"Hidden" = "Ausblenden";
+"Drop to Hide" = "Ziehen Sie hierhin, um zu verstecken.";
+
+"Net error,timeout" = "Netzwerkfehler, Anforderungstimeout.";
+"Data parsing error" = "Datenanalysefehler";
+"User Name" = "Benutzername";
+
+"Password" = "Passwort";
+"Code" = "Überprüfungscode";
+"Name" = "Name";
+"ID card" = "Personalausweisnummer";
+"Enter user name" = "Bitte geben Sie den Benutzernamen ein";
+
+"Enter account" = "Bitte geben Sie die Kontonummer ein";
+"Enter password" = "Bitte geben Sie das Passwort ein";
+"Enter code" = "Bitte geben Sie den Überprüfungscode ein";
+"Enter name" = "Bitte geben Sie den echten Namen ein";
+
+"Enter ID card" = "Bitte geben Sie die Personalausweisnummer ein";
+"Area code" = "Vorwahl";
+"Get Code" = "Überprüfungscode erhalten";
+"Enter" = "Bitte eingeben";
+"Cannot contain spaces" = "Darf keine Leerzeichen enthalten";
+
+"Cannot be less than 6 digits" = "Passwort darf nicht weniger als 6 Zeichen enthalten";
+"Cannot be greater than 16 bits" = "Passwort darf nicht mehr als 16 Zeichen enthalten";
+"Cannot contain spaces" = "Passwort darf keine Leerzeichen enthalten";
+"Login successful" = "Anmeldung erfolgreich";
+"Message" = "Informationen";
+
+"Change pwd failed" = "Passwortänderung fehlgeschlagen";
+"Quick Start Game" = "Schnellspiel starten";
+"Account login" = "Kontoanmeldung";
+"No Apple Login" = "Das aktuelle Gerätesystem unterstützt keine Apple-Anmeldung!";
+"Not in conformity" = "Alle Berechtigungsinformationen stimmen nicht überein";
+
+"User cancle request" = "Der Benutzer hat die Berechtigungsanfrage abgebrochen";
+"Authorization request failed" = "Berechtigungsanfrage fehlgeschlagen";
+"Invalid authorization request response" = "Autorisierungsanfrage hat eine ungültige Antwort erhalten";
+"Failed to process authorization request" = "Die Autorisierungsanfrage konnte nicht verarbeitet werden";
+"Authorization request failed for unknown reason" = "Autorisierungsanfrage ist aus unbekannten Gründen fehlgeschlagen";
+
+"Sign in" = "Anmelden";
+"New user" = "Neue Benutzerregistrierung";
+"Forget pwd" = "Passwort vergessen";
+"Customer service" = "Kundenservice kontaktieren";
+"Reser pwd" = "Passwort zurücksetzen";
+"Assign account number" = "Ein Konto wurde automatisch zugewiesen. Sie können es zur einfacheren Erinnerung selbst festlegen.";
+
+"Sign up" = "Registrieren";
+"Privacy" = "Datenschutzrichtlinie";
+"Agreement" = "Nutzungsvereinbarung";
+"Agreed Privacy And Agreement" = "Die Registrierung bedeutet, dass Sie der Datenschutzrichtlinie und den Nutzungsvereinbarungen zustimmen.";
+
+"Read Privacy And Agreement" = "Bitte lesen und akzeptieren Sie die Datenschutzrichtlinie und die Nutzungsvereinbarung.";
+"Regiest successful" = "Registrierung erfolgreich";
+"Send Code successful" = "Senden des Überprüfungs-Codes erfolgreich";
+"Change done" = "Bestätigen der Änderung";
+
+"Get and loging" = "Das Zurücksetzen war erfolgreich Derzeit wird eingeloggt";
+"Today not tips" = "Heute keine weiteren Hinweise";
+"Bind now" = "Sofort binden";
+"Next time" = "Nächstes Mal";
+
+"Reminder" = "Wichtiger Hinweis! \n1. Die E-Mail dient nur zur Identitätsprüfung und ist kostenfrei. Bitte verwenden Sie sie beruhigt! \n2. Wir versprechen, Ihre Privatsphäre zu schützen und Ihre E-Mail-Adresse nicht preiszugeben!";
+"Bind successful" = "Erfolgreich gebunden";
+"Cancel account?" = "Möchten Sie dieses Konto wirklich abmelden?";
+"Upgrade now" = "Sofort aktualisieren";
+"Close" = "Schließen";
+
+"National regulations" = "1. Gemäß den nationalen Bestimmungen müssen Spieler ihre Identität überprüfen! \n2. Wir versprechen, Ihre persönlichen Daten streng zu schützen und nicht nach außen zu tragen!";
+"Regiest fast" = "Schnellregistrierung";
+"Enter Email" = "Bitte geben Sie Ihre E-Mail-Adresse ein";
+"Service" = "Kundenservice";
+
+"Apple" = "Apple";
+"Facebook" = "FB";
+"Email" = "E-Mail";
+"Visitor" = "Gast";
+"Email cannot be empty" = "E-Mail darf nicht leer sein";
+"Code cannot be empty" = "Der Bestätigungscode darf nicht leer sein";
+
+"Please enter email address" = "Bitte geben Sie eine E-Mail-Adresse ein";
+"Confirm" = "Bestätigen";
+"No bind Email content" = "Dieses Konto ist derzeit nicht an eine E-Mail-Adresse gebunden! \nBitte binden Sie es umgehend aus Sicherheitsgründen.";
+"No account number" = "Derzeit keine Konten vorhanden";
+"Login Method" = "Anmeldeoptionen";
+
+"Linked" = "Bereits verbunden";
+"E-mail" = "E-Mail";
+"Link your account to safeguard your progress and play with multiple devices." = "Verknüpfen Sie das Konto, um Ihren Spielfortschritt zu speichern und auf mehreren Geräten zu spielen.";
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "Bitte geben Sie die Konto-E-Mail-Adresse ein, um den Bestätigungscode zu erhalten. Überprüfen Sie den E-Mail-Ordner, auch den Spam-Ordner.";
+
+"账号登录" = "Kontoanmeldung";
+"重置密码" = "Passwort zurücksetzen";
+"忘记密码" = "Passwort vergessen";
+"实名认证" = "Echtheitsbestätigung";
+"账号绑定" = "Konto verknüpfen";
+"温馨提示" = "Wichtiger Hinweis";
+"版本更新" = "Version aktualisieren";
+"绑定邮箱" = "E-Mail-Verknüpfung";
+"客服中心" = "Kundenservicezentrum";
+
+"Sign in with Apple" = "Anmeldung über Apple";
+"Guest" = "Gast";
+"The authorization information is inconsistent" = "Alle Autorisierungsinformationen stimmen nicht überein";
+"The system version does not support Apple login" = "Das aktuelle System unterstützt derzeit keine Apple-Anmeldung";
+
+"Canceled" = "Der Benutzer hat die Autorisierungsanfrage abgebrochen";
+"Failed" = "Autorisierungsanfrage fehlgeschlagen";
+"Invalid Response" = "Autorisierungsanfrage hat eine ungültige Antwort erhalten";
+"Not Handled" = "Die Autorisierungsanfrage konnte nicht verarbeitet werden";
+"Unknown" = "Autorisierungsanfrage aus unbekannten Gründen fehlgeschlagen";
+
+"Contact us" = "Kontaktieren Sie uns";
+"If you have any questions or questions, please contact us through the following link or email" = "Wenn Sie Fragen haben, können Sie uns über den folgenden Link oder per E-Mail kontaktieren";
+"There are no advertising resources to play" = "Keine Werberessourcen verfügbar";

@@ -1,0 +1,157 @@
+/* 
+  Localizable.strings
+  X-GAME
+
+  Created by Paul on 2022/5/25.
+  
+*/
+
+"Init Repeat" = "初期化は失敗しました、リスタートし、初期化をお願い致します";
+"UnLogin" = "ログインしていません、ログインをお願い致します";
+"Purchase not open" = "アプリ内消費のロックは未解除です";
+"Pay after 5s" = "5秒後で改めて支払います";
+
+"No product list" = "商品のリストをゲットできませんでした";
+"Not have the product" = "アップルストアのリストに当商品のインフォメーションはありません";
+"Purchase request failed" = "アプリ内消費のリクエストは失敗です";
+"Purchase cancle or failed" = "アプリ内消費のリクエストは失敗または取り消しです";
+"Receipt acquisition failed" = "消費のデータを得ませんでしたため、注文を確かめませんでした";
+
+"Receipt data get failed" = "消費のデータを得ませんでしたため、注文を確かめませんでした";
+"Receipt repeat" = "消費の情報は重ねています";
+"Order info lost" = "注文の情報は無くなり、支払いは失敗しました";
+"Purchase successful" = "購入成功です";
+"Order verification failed" = "注文オーダーは確かめませんでした";
+
+"Order verification failed detail" = "注文オーダーは確かめませんでした、ゲームをリスタートすれば、注文したオーダーは自動的に確認されますが、まだ成功しない場合、サービスの担当にご連絡ください";
+"Copy failed" = "コピー失敗しました";
+"Copy successful" = "コピー成功しました";
+"Pay successful" = "支払い成功しました";
+"Unknown device" = "未知デバイスです";
+
+"Done" = "確認します";
+"Show of flip" = "隠されましたが、スリーブすれば、再び示します";
+"Cancel" = "取り消します";
+"Hidden" = "隠します";
+"Drop to Hide" = "ここにドロップし、隠します";
+
+"Net error,timeout" = "インターネットは異常状態です、リクエストは待機長すぎます";
+"Data parsing error" = "データ分解はエラーがでました";
+"User Name" = "ユーザー名";
+
+"Password" = "パスワード";
+"Code" = "セーフコード";
+"Name" = "名前";
+"ID card" = "保険証番号";
+"Enter user name" = "ユーザー名を入力してください";
+
+"Enter account" = "IDを入力してください";
+"Enter password" = "パスワードを入力してください";
+"Enter code" = "コード";
+"Enter name" = "実の名前を入力してください";
+
+"Enter ID card" = "保険証番号を入力してください";
+"Area code" = "アリアコード";
+"Get Code" = "コード取得";
+"Enter" = "入力してください";
+"Cannot contain spaces" = "ブランクを入れないでください";
+
+"Cannot be less than 6 digits" = "パスワードは6ヵ文字または以上にしてください";
+"Cannot be greater than 16 bits" = "パスワードは16ヵ文字を超えないでください";
+"Cannot contain spaces" = "パスワードにはブランクを入れないでください";
+"Login successful" = "ログイン成功です";
+"Message" = "インフォメーション";
+
+"Change pwd failed" = "パスワードの変更は失敗です";
+"Quick Start Game" = "ファストスタート";
+"Account login" = "IDでログインします";
+"No Apple Login" = "当デバイスはアップルログインできません";
+"Not in conformity" = "繋がり情報は間違えました";
+
+"User cancle request" = "ユーザーは繋がりリクエストをキャンセルしました";
+"Authorization request failed" = "繋がりリクエストは失敗しました";
+"Invalid authorization request response" = "繋がりリクエストは応じされていません";
+"Failed to process authorization request" = "繋がりリクエストをプロセスできませんでした";
+"Authorization request failed for unknown reason" = "未知原因で繋がりリクエスト失敗しました";
+
+"Sign in" = "ログイン";
+"New user" = "新ユーザー登録";
+"Forget pwd" = "パスワードをわすれました";
+"Customer service" = "サービスの担当に連絡します";
+"Reser pwd" = "パスワードを変更します";
+"Assign account number" = "システムはすでにIDを配りましたが、記憶の便利のため、あなた自身で設定できます";
+
+"Sign up" = "登録します";
+"Privacy" = "プライバシー保護";
+"Agreement" = "ユーザー条件";
+"Agreed Privacy And Agreement" = "プライバシー保護及びユーザー条件に同意し、登録します";
+
+"Read Privacy And Agreement" = "プライバシー保護及びユーザー条件をお読みください";
+"Regiest successful" = "登録成功しました";
+"Send Code successful" = "セーフコードを送りました";
+"Change done" = "変更を確認します";
+
+"Get and loging" = "改めてゲットし、ログイン中です";
+"Today not tips" = "今日は再び提示しません";
+"Bind now" = "直ぐ繋がります";
+"Next time" = "まだ次にしてください";
+
+"Reminder" = "ご提示:メールアドレスは身分の証明で、手続き費用はかからないので、ご安心ください。";
+"Bind successful" = "成功に繋がりました";
+"Cancel account?" = "確かにこのIDを削除しますか";
+"Upgrade now" = "直ぐアップデート";
+"Close" = "終了します";
+
+"National regulations" = "政府ルールにより、このゲームは実の名前が必要になっています。厳格的にあなたの個人情報を護るので、ご安心ください。";
+"Regiest fast" = "ファスト登録します";
+"Enter Email" = "メールアドレスを入力してください";
+"Service" = "サービスの担当";
+
+"Apple" = "Apple";
+"Facebook" = "FB";
+"Email" = "メールアドレス";
+"Visitor" = "お客様";
+"Email cannot be empty" = "メールアドレスはブランクで行けません";
+"Code cannot be empty" = "セーフコードを入力してください";
+
+"Please enter email address" = "メールアドレスを入力してください";
+"Confirm" = "確認します";
+"No bind Email content" = "当IDはメールアドレスに繋がっていません。あなたのIDを保護するため、メールアドレスにお繋がりください";
+"No account number" = "IDは暫くおりません";
+"Login Method" = "--------------- ログイン方法 ---------------";
+
+"Linked" = "(バウンド)";
+"E-mail" = "メールアドレス";
+"Link your account to safeguard your progress and play with multiple devices." = "IDを繋がって、ゲームのお進めを保障します、または複数のデバイスで遊べます";
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "繋がったメールアドレスを入力してください、間もなくセーフコードをお送り致します。メールのゴミ箱までチェックをお願い致します";
+
+"账号登录" = "日语-账号登录";
+"重置密码" = "日语-重置密码";
+
+"忘记密码" = "日语-忘记密码";
+"实名认证" = "日语-实名认证";
+"账号绑定" = "日语-账号绑定";
+
+"温馨提示" = "日语-温馨提示";
+"版本更新" = "日语-版本更新";
+"绑定邮箱" = "日语-绑定邮箱";
+
+"客服中心" = "日语-客服中心";
+
+"Sign in with Apple" = "Sign in with Apple";
+"Guest" = "お客様";
+"The authorization information is inconsistent" = "繋がり情報は間違えました";
+"The system version does not support Apple login" = "当システムバージョンではアップルログインできません";
+
+"Canceled" = "ユーザーは繋がりリクエストをキャンセルしました";
+"Failed" = "繋がりリクエストは失敗しました";
+"Invalid Response" = "繋がりリクエストは応じされていません";
+"Not Handled" = "繋がりリクエストをプロセスできませんでした";
+"Unknown" = "未知原因で繋がりリクエスト失敗しました";
+
+"Contact us" = "開発者に連絡します";
+
+"If you have any questions or questions, please contact us through the following link or email" = "何か問題や提案がございましたら、お気軽に以下のリンクでご連絡してください。";
+
+"There are no advertising resources to play" = "放送できる広告はありません";
+

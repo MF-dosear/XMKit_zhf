@@ -1,0 +1,240 @@
+/*
+  Localizable.strings
+  XMSDK
+
+  Created by dosear on 2021/4/19.
+  Copyright © 2021 YXQ. All rights reserved.
+*/
+
+"Init Repeat" = "初始化失敗，請重啓遊戲，完成初始化操作";
+
+"UnLogin" = "未登入，請完成登入操作";
+
+"Purchase not open" = "應用內購買尚未開啟";
+
+"Pay after 5s" = "5秒後重新支付";
+
+"No product list" = "沒有獲取到商品列表";
+
+"Not have the product" = "Apple商品列表沒有該商品信息";
+
+"Purchase request failed" = "應用內購買請求失敗";
+
+"Purchase cancle or failed" = "應用內購買被取消或失敗";
+
+"Receipt acquisition failed" = "交易憑證獲取失敗，無法校驗訂單";
+
+"Receipt data get failed" = "交易數據獲取失敗，無法校驗訂單";
+
+"Receipt repeat" = "Apple交易信息重複";
+
+"Order info lost" = "訂單信息遺失，支付失敗";
+
+"Purchase successful" = "購買成功";
+
+"Order verification failed" = "訂單校驗失敗";
+
+"Order verification failed detail" = "訂單校驗失敗，\n重啓遊戲，後臺自動校驗訂單，\n如果一直未成功，請聯系客服。\n";
+
+"Copy failed" = "複製失敗";
+
+"Copy successful" = "複製成功";
+
+"Pay successful" = "支付成功";
+
+"Unknown device" = "未知設備";
+
+"Done" = "確定";
+
+"Show of flip" = "隱藏後翻一翻可顯示懸浮框";
+
+"Cancel" = "取消";
+
+"Hidden" = "隱藏";
+
+"Drop to Hide" = "拖到此處隱藏";
+
+"Net error,timeout" = "網絡异常，請求超時";
+
+"Data parsing error" = "數據解析錯誤";
+
+"User Name" = "用戶名";
+
+"Password" = "密碼";
+
+"Code" = "驗證碼";
+
+"Name" = "姓名";
+
+"ID card" = "身份證號";
+
+"Enter user name" = "請輸入用戶名";
+
+"Enter account" = "請輸入帳號";
+
+"Enter password" = "請輸入密碼";
+
+"Enter code" = "請輸入驗證碼";
+
+"Enter name" = "請輸入真實姓名";
+
+"Enter ID card" = "請輸入身份證號碼";
+
+"Area code" = "區號";
+
+"Get Code" = "獲取驗證碼";
+
+"Enter" = "請輸入";
+
+"Cannot contain spaces" = "不能包含空格";
+
+"Cannot be less than 6 digits" = "密碼不能少於6位";
+
+"Cannot be greater than 16 bits" = "密碼不能大於16位";
+
+"Cannot contain spaces" = "密碼中不能包含空格";
+
+"Login successful" = "登入成功";
+
+"Message" = "信息";
+
+"Change pwd failed" = "修改密碼失敗";
+
+"Quick Start Game" = "快速開始遊戲";
+
+"Account login" = "帳戶登入";
+
+"No Apple Login" = "當前設備系統不支持Apple登入！";
+
+"Not in conformity" = "授權信息均不符";
+
+"User cancle request" = "用戶取消了授權請求";
+
+"Authorization request failed" = "授權請求失敗";
+
+"Invalid authorization request response" = "授權請求響應無效";
+
+"Failed to process authorization request" = "未能處理授權請求";
+
+"Authorization request failed for unknown reason" = "授權請求失敗未知原因";
+
+"Sign in" = "登入";
+
+"New user" = "新用戶註冊";
+
+"Forget pwd" = "忘記密碼";
+
+"Customer service" = "聯繫客服";
+
+"Reser pwd" = "重置密碼";
+
+"Assign account number" = "系統已自動分配帳號，為了方便記憶，您可自行設定";
+
+"Sign up" = "注册";
+
+"Privacy" = "隱私政策";
+
+"Agreement" = "用戶協定";
+
+"Agreed Privacy And Agreement" = "注册代表已同意隱私政策和用戶協定";
+
+"Read Privacy And Agreement" = "請閱讀並同意隱私政策和用戶協定";
+
+"Regiest successful" = "注册成功";
+
+"Send Code successful" = "發送驗證碼成功";
+
+"Change done" = "確認修改";
+
+"Get and loging" = "找回成功，正在登入";
+
+"Today not tips" = "今日不再提示";
+
+"Bind now" = "立即綁定";
+
+"Next time" = "下次再說";
+
+"Reminder" = "溫馨提示！\n1、郵箱僅作為身份驗證，不收取任何費用，請放心使用！\n2、本公司承諾保障您的隱私，不會洩露您的郵箱！";
+
+"Bind successful" = "綁定成功";
+
+"Cancel account" = "確定註銷該帳號嗎？";
+
+"Upgrade now" = "立即升級";
+
+"Close" = "關閉";
+
+"National regulations" = "1、根據國家規定，遊戲用戶需進行實名認證！\n2、我們承諾將嚴格保護您的個人信息，不會對外洩漏！";
+
+"Regiest fast" = "快速注册";
+
+"Enter Email" = "請輸入郵箱";
+
+"Service" = "客服";
+
+"Apple" = "Apple";
+
+"Facebook" = "FB";
+
+"Email" = "郵箱";
+
+"Visitor" = "遊客";
+
+"Email cannot be empty" = "郵箱不能為空";
+
+"Code cannot be empty" = "驗證碼不能為空";
+
+"Please enter email address" = "請輸入郵箱地址";
+
+"Confirm" = "確定";
+
+"No bind Email content" = "當前帳號未綁定郵箱！\n為了您的帳號安全，請立即綁定郵箱";
+
+"No account number" = "暫無帳號";
+
+"Login Method" = "---------------登入方式---------------";
+
+"Linked" = "已綁定";
+
+"E-mail" = "郵箱";
+
+"Link your account to safeguard your progress and play with multiple devices." = "綁定帳號以保證您的遊戲進度，並使用多設備進行遊戲。";
+
+"Please enter the account email address to receive the verification code,and check the email folder including the trash box." = "請輸入帳號郵箱用於接收驗證碼，檢查郵件資料夾包括垃圾桶";
+
+"账号登录" = "账号登录";
+"重置密码" = "重置密码";
+
+"忘记密码" = "忘记密码";
+"实名认证" = "实名认证";
+"账号绑定" = "账号绑定";
+
+"温馨提示" = "温馨提示";
+"版本更新" = "版本更新";
+"绑定邮箱" = "绑定邮箱";
+
+"客服中心" = "客服中心";
+
+"Sign in with Apple" = "使用Apple登入";
+
+"Guest" = "遊客";
+
+"The authorization information is inconsistent" = "授權信息均不符";
+
+"The system version does not support Apple login" = "該系統版本暫不支持Apple登入";
+
+"Canceled" = "用戶取消了授權請求";
+
+"Failed" = "授權請求失敗";
+
+"Invalid Response" = "授權請求響應無效";
+
+"Not Handled" = "未能處理授權請求";
+
+"Unknown" = "授權請求失敗未知原因";
+
+"Contact us" = "聯繫我們";
+
+"If you have any questions or questions, please contact us through the following link or email" = "如果您有任何問題或者疑問，歡迎通過下方的Facebook、Messenger、客服、郵箱與我們聯系。";
+
+"There are no advertising resources to play" = "沒有廣告資源可以播放";
