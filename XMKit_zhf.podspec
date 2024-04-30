@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/564057354@qq.com/XMKit_zhf'
+  s.homepage         = 'https://github.com/MF-dosear/XMKit_zhf.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '564057354@qq.com' => '564057354@qq.com' }
-  s.source           = { :git => 'https://github.com/564057354@qq.com/XMKit_zhf.git', :tag => s.version.to_s }
+  s.author           = { 'dosear@qq.com' => 'dosear@qq.com' }
+  s.source           = { :git => 'https://github.com/MF-dosear/XMKit_zhf.git', :tag => s.version.to_s }
   
   #sdk 支持最低版本
   s.ios.deployment_target = '13.0'
