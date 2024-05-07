@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		56AA8A83E4C976889F258F87 /* Pods_XMKit_zhf_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBF243D8574F5A192FEB815E /* Pods_XMKit_zhf_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -20,6 +19,7 @@
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		DA6D890E2BE08E46002D56AE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA6D890D2BE08E46002D56AE /* GoogleService-Info.plist */; };
 		DA6D89172BE09DC4002D56AE /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA6D89162BE09DC4002D56AE /* StoreKit.framework */; };
+		F69B2A4F2B4337D9823A21DA /* Pods_XMKit_zhf_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,11 +45,11 @@
 		77996EE6A3F8292F3374678D /* Pods-XMKit_zhf_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMKit_zhf_Example.release.xcconfig"; path = "Target Support Files/Pods-XMKit_zhf_Example/Pods-XMKit_zhf_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8950D20189FB03987404746C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMKit_zhf_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA6D890D2BE08E46002D56AE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		DA6D890F2BE08E5D002D56AE /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
 		DA6D89152BE09DB2002D56AE /* XMKit_zhf_Example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = XMKit_zhf_Example.entitlements; sourceTree = "<group>"; };
 		DA6D89162BE09DC4002D56AE /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
-		EBF243D8574F5A192FEB815E /* Pods_XMKit_zhf_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMKit_zhf_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF8A2C878C431E4ECC8772B3 /* Pods_XMKit_zhf_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMKit_zhf_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEAFA7053BBF040BD0F167F4 /* XMKit_zhf.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XMKit_zhf.podspec; path = ../XMKit_zhf.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
@@ -63,7 +63,7 @@
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				DA6D89172BE09DC4002D56AE /* StoreKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				56AA8A83E4C976889F258F87 /* Pods_XMKit_zhf_Example.framework in Frameworks */,
+				F69B2A4F2B4337D9823A21DA /* Pods_XMKit_zhf_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,8 +98,8 @@
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
-				EBF243D8574F5A192FEB815E /* Pods_XMKit_zhf_Example.framework */,
 				EF8A2C878C431E4ECC8772B3 /* Pods_XMKit_zhf_Tests.framework */,
+				AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
