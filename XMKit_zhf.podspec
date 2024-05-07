@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XMKitZHF'
+  s.name             = 'XMKit_zhf'
   s.version          = '1.0.0'
   s.summary          = 'XMKit_zhf. iLife 游戏 新马 韩国 繁体'
 
