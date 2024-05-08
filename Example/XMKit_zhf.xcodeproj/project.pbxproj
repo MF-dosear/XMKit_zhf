@@ -17,15 +17,16 @@
 		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		8C18180CFDD54745219DB45D /* Pods_XMKit_zhf_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CD922219B46D052EF2518EB /* Pods_XMKit_zhf_Example.framework */; };
 		DA6D890E2BE08E46002D56AE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA6D890D2BE08E46002D56AE /* GoogleService-Info.plist */; };
 		DA6D89172BE09DC4002D56AE /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA6D89162BE09DC4002D56AE /* StoreKit.framework */; };
-		F69B2A4F2B4337D9823A21DA /* Pods_XMKit_zhf_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		394170517752CC57DD49FB6C /* Pods-XMKit_zhf_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMKit_zhf_Tests.release.xcconfig"; path = "Target Support Files/Pods-XMKit_zhf_Tests/Pods-XMKit_zhf_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		49D2EB8FB6356D9ECC76B81B /* Pods-XMKit_zhf_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMKit_zhf_Tests.debug.xcconfig"; path = "Target Support Files/Pods-XMKit_zhf_Tests/Pods-XMKit_zhf_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4D30DC0D1622FF4F0D374F00 /* Pods-XMKit_zhf_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMKit_zhf_Example.debug.xcconfig"; path = "Target Support Files/Pods-XMKit_zhf_Example/Pods-XMKit_zhf_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		5CD922219B46D052EF2518EB /* Pods_XMKit_zhf_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMKit_zhf_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DA85ABC7C899B7C9DC79E98 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* XMKit_zhf_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMKit_zhf_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -45,7 +46,6 @@
 		77996EE6A3F8292F3374678D /* Pods-XMKit_zhf_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMKit_zhf_Example.release.xcconfig"; path = "Target Support Files/Pods-XMKit_zhf_Example/Pods-XMKit_zhf_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8950D20189FB03987404746C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMKit_zhf_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA6D890D2BE08E46002D56AE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		DA6D890F2BE08E5D002D56AE /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
 		DA6D89152BE09DB2002D56AE /* XMKit_zhf_Example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = XMKit_zhf_Example.entitlements; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				DA6D89172BE09DC4002D56AE /* StoreKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				F69B2A4F2B4337D9823A21DA /* Pods_XMKit_zhf_Example.framework in Frameworks */,
+				8C18180CFDD54745219DB45D /* Pods_XMKit_zhf_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,7 +99,7 @@
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
 				EF8A2C878C431E4ECC8772B3 /* Pods_XMKit_zhf_Tests.framework */,
-				AE81A23890C1F5247006A3A4 /* Pods_XMKit_zhf_Example.framework */,
+				5CD922219B46D052EF2518EB /* Pods_XMKit_zhf_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

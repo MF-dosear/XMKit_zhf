@@ -19,7 +19,10 @@
     // AppsFlyer
     [AppsFlyerLib shared].deepLinkDelegate = [XMManager sharedXMManager];
     [AppsFlyerLib shared].delegate = [XMManager sharedXMManager];
+}
 
++ (void)deepLinkApplicationDidBecomeActive:(UIApplication *)application{
+    
     if (@available(iOS 14, *)) {
         [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
             

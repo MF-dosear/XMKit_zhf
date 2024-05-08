@@ -305,5 +305,6 @@
 
 @end
 
-//--use-libraries --use-static-frameworks --skip-import-validation
-// pod trunk push XMKit_zhf.podspec --use-libraries --skip-import-validation
+// pod lib lint --use-libraries --skip-import-validation --use-modular-headers
+
+// pod trunk push XMKit_zhf.podspec --use-libraries --skip-import-validation --use-modular-headers

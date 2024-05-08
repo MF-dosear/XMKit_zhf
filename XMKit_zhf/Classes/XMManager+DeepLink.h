@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)deepLinkApplication:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions;
 
++ (void)deepLinkApplicationDidBecomeActive:(UIApplication *)application;
+
 + (void)deepLinkApplication:(UIApplication *)application continueUserActivity:(NSUserActivity *)userActivity restorationHandler:(void (^)(NSArray<id<UIUserActivityRestoring>> * _Nullable))restorationHandler;
 
 + (void)deepLinkApplication:(UIApplication *)application openURL:(NSURL *)url options:(NSDictionary *)options;

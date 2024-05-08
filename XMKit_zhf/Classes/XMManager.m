@@ -78,16 +78,6 @@ singleton_implementation(XMManager)
     
     // 悬浮框实例化
     [YXAuxView sharedAux];
-    
-    // 广告追踪
-    if (@available(iOS 14, *)) {
-        [ATTrackingManager requestTrackingAuthorizationWithCompletionHandler:^(ATTrackingManagerAuthorizationStatus status) {
-            
-            
-        }];
-    } else {
-        // Fallback on earlier versions
-    }
 }
 
 /// 提示框风格
@@ -266,8 +256,11 @@ singleton_implementation(XMManager)
 
 + (void)sdkApplicationDidBecomeActive:(UIApplication *)application{
     // app启动
+    
     [[AppsFlyerLib shared] start];
     [[FBSDKAppEvents shared] activateApp];
+    
+    [XMManager deepLinkApplicationDidBecomeActive:application];
 }
 
 + (BOOL)sdkApplication:(UIApplication *)application openURL:(NSURL *)url options:(NSDictionary *)options{

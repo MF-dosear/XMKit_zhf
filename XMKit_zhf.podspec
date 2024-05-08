@@ -45,7 +45,7 @@ TODO: Add long description of the pod here.
   valid_archs = ['arm64','x86_64','armv7']
   
   #设置为静态库
-#  s.static_framework = true
+  s.static_framework = true
 
   #暴露的头文件
   s.public_header_files = [
