@@ -171,7 +171,7 @@ PODS:
     - ATOM-Standalone (~> 3.0.7)
     - HyBid/Core
   - InMobiSDK (10.7.2)
-  - IQKeyboardManager (6.5.18)
+  - IQKeyboardManager (6.5.19)
   - IronSourceSDK (8.0.0.0)
   - JKCategories (1.9.3):
     - JKCategories/CoreData (= 1.9.3)
@@ -358,9 +358,6 @@ PODS:
   - nanopb/decode (2.30910.0)
   - nanopb/encode (2.30910.0)
   - PromisesObjC (2.4.0)
-  - SVProgressHUD (2.3.1):
-    - SVProgressHUD/Core (= 2.3.1)
-  - SVProgressHUD/Core (2.3.1)
   - UnityAds (4.10.0)
   - VungleAds (7.3.1)
   - XMKit_zhf (1.0.0):
@@ -384,7 +381,6 @@ PODS:
     - IQKeyboardManager (~> 6.5.18)
     - JKCategories (~> 1.9.3)
     - Masonry (~> 1.1.0)
-    - SVProgressHUD (~> 2.3.1)
     - YYText (~> 1.0.7)
   - YYText (1.0.7)
 
@@ -430,7 +426,6 @@ SPEC REPOS:
     - MintegralAdSDK
     - nanopb
     - PromisesObjC
-    - SVProgressHUD
     - UnityAds
     - VungleAds
     - YYText
@@ -470,17 +465,16 @@ SPEC CHECKSUMS:
   GoogleUtilities: d053d902a8edaa9904e1bd00c37535385b8ed152
   HyBid: e98ce54597d146a8fec024d3e7c83cb5d4f11be6
   InMobiSDK: 5882da6b575abf138a586f920bb4c7cafde7a529
-  IQKeyboardManager: 67f92bb29b650c094c40bd11c0545b47bdd25c5b
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
   IronSourceSDK: ab8b67818aab07d1eca58f5b949459b939c4c589
   JKCategories: c995567f04ff98680313f56544e6cb62d3152733
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MintegralAdSDK: 5ff28af4529d8eedf9e2c4e84ddf70bebf48691c
   nanopb: 438bc412db1928dac798aa6fd75726007be04262
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
-  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
   UnityAds: 5601f6397b0e02ed3ed6ee92827f5177a523aab6
   VungleAds: 04a17ab51fb61f41cd6d666fd0024509005740fe
-  XMKit_zhf: 2b7efd3d543fb98f55f9e038e97b43a1e7eba80b
+  XMKit_zhf: ec83c2d979f5862c404f148fdafe7669aa0469b6
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
 PODFILE CHECKSUM: 2dcffeb3b73d338784948dc98da654ffe1d0a748
